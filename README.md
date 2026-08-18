@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Shira
 
-<!--
-**ShiraSil/ShiraSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Junior Software Engineer
 
-Here are some ideas to get you started:
+Computer Science graduate with hands-on experience in software development, OOP, and Full-Stack development through academic and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Skills
+
+* **Languages:** C#, C++, Java, Python, JavaScript, C
+* **Frontend:** React.js, HTML5, CSS3
+* **Backend:** Node.js, Express, .NET, Entity Framework, REST APIs
+* **Databases:** SQL, SQL Server, MySQL
+* **Tools:** Git, GitHub, Postman, Swagger, VS Code, Visual Studio, PyCharm
+
+---
+
+### AI-Assisted Development
+
+Using AI tools for technical research, debugging, problem-solving, and improving development workflows.
+
+---
+
+### Seeking Opportunities
+
+Looking for a **Junior Software Engineer / Full-Stack Developer** opportunity.
+
+---
+
+### Contact
+
+**Email:** [shirasilbermann@gmail.com](mailto:shirasilbermann@gmail.com)
